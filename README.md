@@ -16,5 +16,5 @@ This project demonstrates how to configure AWS CloudTrail to log all management 
 
 ## 📌 Use Case
 This setup enhances visibility, governance, and security monitoring within an AWS environment.
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/14b16d7e-fac5-422d-a204-996e102394d5" />
+
 
